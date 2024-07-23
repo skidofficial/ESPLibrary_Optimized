@@ -36,14 +36,14 @@ local Library = {
     };
 
     Settings = {
-        MainTextSize = 15;
+        MainTextSize = 11;
         MainTweenTime = 1;
         RippleTweenTime = 1;
         CheckboxTweenTime = 0.5;
         ColorPickerTweenTime = 0.5;
         DropdownTweenTime = 0.5;
         DropdownButtonColorHoverTweenTime = 0.5;
-        MainTextFont = Enum.Font.BuilderSans;
+        MainTextFont = Enum.Font.Legacy;
         UIToggleKey = Enum.KeyCode.RightControl;
         TweenEasingStyle = Enum.EasingStyle.Quart;
     }
