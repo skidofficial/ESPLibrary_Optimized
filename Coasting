@@ -36,7 +36,7 @@ local Library = {
     };
 
     Settings = {
-        MainTextSize = 15;
+        MainTextSize = 11;
         MainTweenTime = 1;
         RippleTweenTime = 1;
         CheckboxTweenTime = 0.5;
