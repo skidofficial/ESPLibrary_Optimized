@@ -43,7 +43,7 @@ local Library = {
         ColorPickerTweenTime = 0.5;
         DropdownTweenTime = 0.5;
         DropdownButtonColorHoverTweenTime = 0.5;
-        MainTextFont = Enum.Font.Arial;
+        MainTextFont = Enum.Font.Legacy;
         UIToggleKey = Enum.KeyCode.RightControl;
         TweenEasingStyle = Enum.EasingStyle.Quart;
     }
