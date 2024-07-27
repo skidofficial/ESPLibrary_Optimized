@@ -167,7 +167,7 @@ local function updateEsp()
                             esp.box.Position = boxPosition
                             esp.box.Color = ESP_SETTINGS.BoxColor
                             esp.box.Visible = true
-                            esp.boxOutline.Visible = true
+                            esp.boxOutline.Visible = false
                             for _, line in ipairs(esp.boxLines) do
                                 line:Remove()
                             end
